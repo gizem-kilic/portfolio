@@ -5,7 +5,7 @@
 ## Education
 - Data Analytics Bootcamp | Career Foundry (_November 2024_)								       		
 - M.S., Social Sciences | Humboldt University of Berlin (_November 2020_)	 			        		
-- B.S., Translation and Interpreting Studies | Bogazici University (_June 2017_)
+- B.A., Translation and Interpreting Studies | Bogazici University (_June 2017_)
 
 ## Work Experience
 **Campus Recruiter @ Wayfair (_May 2022 - January 2024_)**
